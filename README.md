@@ -14,4 +14,4 @@ This project uses advanced Excel to analyze over 4,000 movies from the IMDb data
 
 ## 📁 Files Included
 - Excel workbook with raw data, cleaning steps, and pivot analysis
-- Word document summarizing findings and business recommendations
+- PDF summarizing findings and business recommendations
